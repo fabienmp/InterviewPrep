@@ -1,0 +1,18 @@
+//If you know a solution is not far from the root of the tree:
+Breath First (search closest nodes to top first)
+
+//If the tree is very deep and solutions are rare: 
+Breath First (DFS would be too long)
+However BFS has some memory concers.
+
+//If the tree is very wide:
+Depth First (BFS needs too much memory)
+
+//If solutions are frequent but located deep in the tree:
+Depth First
+
+//Determining whether a path exists between two nodes:
+Depth First
+
+//Finding the shortest path:
+Breath First
